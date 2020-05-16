@@ -13,3 +13,15 @@ a{
 a:hover{
 	background: white;
 }
+#header{
+	background: yellow;
+	margin-bottom: 5px;
+	text-align: right;
+
+}
+.logo{
+	text-align: left;
+}
+footer{
+	background : yellow;
+}
