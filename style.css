@@ -15,12 +15,20 @@ a:hover{
 }
 #header{
 	background: yellow;
-	margin-bottom: 5px;
+	margin-top: -8px;
+	margin-left:-8px;
+	margin-right:-8px;*/
+	padding: 5px;
 	text-align: right;
 
 }
 .logo{
+	background: yellow;
 	text-align: left;
+}
+
+.form{
+	text-align: center;
 }
 footer{
 	background : yellow;
